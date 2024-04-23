@@ -6,6 +6,8 @@ The Medium article is available here:
 
 /!\ Project by Clovis Varangot-Reille, Dounya Bourhani, Nousra Chaibati & Joseph Pelham
 
+*The creators of this tool provide no warranty or assurance regarding its performance, dependability, or suitability for any specific purpose.*
+
 # First, import the repository and start the Streamlit App - 
 
 ```
