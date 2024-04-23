@@ -2,7 +2,7 @@
 
 This repository contains the algorithm for an LLM application designed to be a multi-model Jupyter coding assistant. Through voice or text input, the user can interact with his notebook and generate lines of code and markdown. They can also delete, update or even add an explanation for a specific cell. Finally, you can quickly add a summary of the notebook. Its simplicity makes it ideal for local implementation of LLM applications. This current version works with Mixtral-8x7B (thanks to its easy access through the HuggingFace inference API) and LangChain. This algorithm is a perfect example of implementing code inference through an LLM application.
 
-The Medium article is available here: 
+The Medium article is available here: [https://medium.com/@clovis.vrgtR/is-it-possible-to-make-your-own-lowcost-multimodal-jupyter-coding-assistant-a4c1b845a919](https://medium.com/@clovis.vrgtR/is-it-possible-to-make-your-own-lowcost-multimodal-jupyter-coding-assistant-a4c1b845a919)
 
 /!\ Project by Clovis Varangot-Reille, Dounya Bourhani, Nousra Chaibati & Joseph Pelham
 
